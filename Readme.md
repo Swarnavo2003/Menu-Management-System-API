@@ -15,10 +15,10 @@ A comprehensive Node.js backend API for managing hierarchical menu structures wi
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Swarnavo2003/Menu-Management-System-API
 
 # Navigate to project directory
-cd menu-management
+cd Menu-Management-System-API
 
 # Install dependencies
 npm install
